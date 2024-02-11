@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+# Welcome to my website!
+I am a researcher who studies the impact of AI on society.
