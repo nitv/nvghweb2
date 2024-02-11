@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to my website!
 ---
 
 I am a researcher who studies the impact of AI on society. In particular, I look at how generative AI technologies (such as deepfakes and LLMs) affecting public trust in information found online.
