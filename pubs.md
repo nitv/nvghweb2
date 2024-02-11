@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Publications
 ---
 
 # Peer-Reviewed Journal Articles
